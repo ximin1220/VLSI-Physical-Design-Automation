@@ -1,0 +1,30 @@
+NumCells 8
+// Cells total size = 100
+Cell C1 10
+Cell C2 10
+Cell C3 15
+Cell C4 15
+Cell C5 12
+Cell C6 13
+Cell C7 12
+Cell C8 13
+NumNets 5
+// Net definitions
+Net NetA 2
+Cell C1
+Cell C5
+Net NetB 3
+Cell C1
+Cell C2
+Cell C3
+Net NetC 3
+Cell C6
+Cell C7
+Cell C8
+Net NetD 3
+Cell C1
+Cell C4
+Cell C8
+Net NetE 2
+Cell C3
+Cell C5
